@@ -1,0 +1,24 @@
+
+What to do
+----------
+
+1. Create a branch of this project.
+2. To the list below, add the following:
+	a) your GitHub username,
+	b) your real name, and
+	c) a brief statement about something what you did last weekend
+3. Commit the change. Provide a simple, meaningful commit message.
+4. Open a Pull Request on the master branch of this project.
+5. When I (Jonathan) see your Pull Request, I'll approve it or comment on it.
+  - if your Pull Request is approved, you're all done.
+  - if your Pull Request receives a comment, you need to follow up promptly,
+    before the assignment deadline.
+
+
+Add info here
+-------------
+
+Include the info requested above in the list below, using the same formatting.
+Please don't delete my info.
+
+- jmill. Jonathan Miller. Went to an automobile race.
