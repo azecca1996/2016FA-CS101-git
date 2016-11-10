@@ -21,5 +21,6 @@ Add info here
 Include the info requested above in the list below, using the same formatting.
 Please don't delete my info.
 
+- knm103. Kalene Murphy. Worked and did school work. 
 - jmill. Jonathan Miller. Went to an automobile race.
 - yezaccnu. Jonathan Miller. Created another GitHub account.
