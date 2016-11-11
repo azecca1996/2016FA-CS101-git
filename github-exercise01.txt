@@ -14,14 +14,13 @@ What to do
   - if your Pull Request receives a comment, you need to follow up promptly,
     before the assignment deadline.
 
-
-Add info here
 -------------
 
 Include the info requested above in the list below, using the same formatting.
 Please don't delete my info.
 
-- knm103. Kalene Murphy. Worked and did school work. 
+- tlf100. Tara Fritz. I got Chinese food with my roommate and watched lots of Holiday Baking Championship.
+- knm103. Kalene Murphy. Worked and did school work.
 - jmill. Jonathan Miller. Went to an automobile race.
-- yezaccnu. Jonathan Miller. Created another GitHub account.
 - bigisaac72. Isaac Jackson. Went home because of football bye week.
+>>>>>>> master
