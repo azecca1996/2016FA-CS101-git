@@ -14,15 +14,12 @@ What to do
   - if your Pull Request receives a comment, you need to follow up promptly,
     before the assignment deadline.
 
-
-a) tlf100
-b) Tara Fritz
-c) I got Chinese food with my roommate and watched lots of Holiday Baking Championship.
 -------------
 
 Include the info requested above in the list below, using the same formatting.
 Please don't delete my info.
 
+- tlf100. Tara Fritz. I got Chinese food with my roommate and watched lots of Holiday Baking Championship.
 - knm103. Kalene Murphy. Worked and did school work. 
 - jmill. Jonathan Miller. Went to an automobile race.
 - yezaccnu. Jonathan Miller. Created another GitHub account.
