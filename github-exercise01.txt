@@ -26,3 +26,4 @@ Please don't delete my info.
 - Achumrik34. Amanda Chumrik. Studied for Anatomy exam.
 - lkb105. Lindsay Brocious. Did homework.
 >>>>>>> master
+- ivyphil3. Ivy Phillips. Studied for anatomy test.
